@@ -4,3 +4,5 @@ let audioTurn = new Audio("ting.mp3")
 let gameover = new Audio("gameover.mp3")
 let turn = "X"
 let isgameover = false;
+
+

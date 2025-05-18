@@ -58,3 +58,6 @@ nav ul{
     transition: width 1s ease-in-out;
 }
 
+.br-0{
+    border-right: 0;
+}
